@@ -1,7 +1,6 @@
 import streamlit as st
 from datetime import datetime
-import json
-from streamlit_lottie import st_lottie
+
 
 st.set_page_config(
     page_title="2024 | Samar",
